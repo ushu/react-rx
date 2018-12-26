@@ -1,8 +1,8 @@
 # Utilities for React and RxJS 6
 
-This package provides simple helpers for mixing React with RxJS 6.
+**NOTICE: this package is now DEPRECATED and has been replaced by [`react-rx-bind`](https://github.com/ushu/react-rx-bind). Please use the latter in new projects.**
 
-**NOTICE: for most use cases, you will probably be better served using the RxJS functions of [recompose]. I built this package to have a better support of RxJS 6 with TypeScript: unless you have faced the same issues, `react-rxjs-utils` might not be the best option.**
+This package provides simple helpers for mixing React with RxJS 6.
 
 ## Getting Started
 
